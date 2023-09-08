@@ -11,11 +11,11 @@
 
 [Immersive Engineering V0.12-98](https://www.curseforge.com/minecraft/mc-mods/immersive-engineering/files/2974106)
 
-[MCgITF V2.0.0.0 **OUTDATED**](https://www.curseforge.com/minecraft/mc-mods/mcgltf/files/405627)
+[MCgITF V2.0.0.0 ***OUTDATED***](https://www.curseforge.com/minecraft/mc-mods/mcgltf/files/405627)
 
 [Immersive Vehicles (MTS) V22.11.0](https://www.curseforge.com/minecraft/mc-mods/minecraft-transport-simulator/files/4671493)
 
-[Modular Voice Chat V1.1.1 **REMOVAL IMMINENT**](https://www.curseforge.com/minecraft/mc-mods/modularvoicechat/files/3355108)
+[Modular Voice Chat V1.1.1 ***REMOVAL IMMINENT***](https://www.curseforge.com/minecraft/mc-mods/modularvoicechat/files/3355108)
 
 [Modular Warfare V2.4.2f](https://www.curseforge.com/minecraft/mc-mods/modularwarfare/files/4426196)
 
@@ -33,11 +33,11 @@
 
 [Phosphor (Forge) V0.2.6](https://www.curseforge.com/minecraft/mc-mods/phosphor-forge/files/2747710)
 
-Lithium (Forge) **TO BE ADDED**
+Lithium (Forge) ***TO BE ADDED***
 
-[Xaeros Minimap V23.6.3 **OUTDATED**](https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap/files/4716683)
+[Xaeros Minimap V23.6.3 ***OUTDATED***](https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap/files/4716683)
 
-[Xaeros World Map V1.33.1 **OUTDATED**](https://www.curseforge.com/minecraft/mc-mods/xaeros-world-map/files/4716739)
+[Xaeros World Map V1.33.1 ***OUTDATED***](https://www.curseforge.com/minecraft/mc-mods/xaeros-world-map/files/4716739)
 
 ## Admin Mods
 
