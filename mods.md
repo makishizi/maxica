@@ -1,4 +1,8 @@
-REQUIRED MODS
+# Maxica Event Mods
+All mods require Forge version 14.12.5.2859
+https://maven.minecraftforge.net/net/minecraftforge/forge/1.12.2-14.23.5.2859/forge-1.12.2-14.23.5.2859-installer.jar
+
+## Required Mods
 
 Chisel and Bits V14.33
 https://www.curseforge.com/minecraft/mc-mods/chisels-bits/files/2720655
@@ -36,7 +40,7 @@ https://www.curseforge.com/minecraft/mc-mods/unu-civilian-pack-for-mts/files/472
 UNU Military Vehicles (MTS) V5.0.0
 https://www.curseforge.com/minecraft/mc-mods/unu-military-pack-for-mts/files/3885832
 
-RECCOMENDED MODS
+## Reccomended Client Mods
 
 Phosphor (Forge) V0.2.6
 https://www.curseforge.com/minecraft/mc-mods/phosphor-forge/files/2747710
@@ -49,7 +53,7 @@ https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap/files/4716683
 Xaeros World Map V1.33.1 OUTDATED
 https://www.curseforge.com/minecraft/mc-mods/xaeros-world-map/files/4716739
 
-ADMINISTRATOR MODS
+## Admin Mods
 
 Worldedit V6.1.10
 https://www.curseforge.com/minecraft/mc-mods/worldedit/files/2941712
